@@ -38,9 +38,8 @@ boolean send_alert_once = true;
 const float maxDistance = 30;
 
 //--------------------------------------------------------------
-//bahawalpur city
-float initialLatitude = 29.403423;
-float initialLongitude = 71.681017;
+float initialLatitude = 0;
+float initialLongitude = 0;
 
 float latitude, longitude;
 //--------------------------------------------------------------
