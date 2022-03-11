@@ -41,9 +41,6 @@ const float maxDistance = 30;
 //bahawalpur city
 float initialLatitude = 29.403423;
 float initialLongitude = 71.681017;
-//my home
-//float initialLatitude = 29.403423;
-//float initialLongitude = 71.681015;
 
 float latitude, longitude;
 //--------------------------------------------------------------
